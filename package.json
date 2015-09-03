@@ -1,7 +1,7 @@
 {
   "name": "kolthof",
   "version": "1.0.0",
-  "description": "Module for code check",
+  "description": "Scaffold",
   "main": "gulpfile.js",
   "devDependencies": {
     "del": "^1.2.1",
