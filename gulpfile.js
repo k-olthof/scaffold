@@ -47,9 +47,6 @@ gulp.task('default',  ['clean', 'styles', 'scripts', 'images']);
 //watch
 gulp.task('watch', function () {
 
-    // Watch .html files
-    gulp.watch('src/*.html', ['html']);
-
     // Watch .scss files
     gulp.watch('src/styles/*.scss', ['styles']);
 
